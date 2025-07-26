@@ -1,0 +1,16 @@
+# Basic requirements (no external APIs needed)
+langchain-core
+langgraph
+
+# For Hugging Face option
+# transformers
+# torch
+
+# For Ollama option  
+requests
+
+# For Gemini option
+# google-generativeai
+
+# For environment variables
+python-dotenv
